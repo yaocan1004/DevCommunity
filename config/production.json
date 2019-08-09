@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://can123:can123@devconnector-eapdo.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtToken": "can123",
+  "clientId": "0c0b1d145d29cc72f8a9",
+  "clientSecret": "0986b420f9666b54b1e15f0b9584a8ae483436db"
+}
